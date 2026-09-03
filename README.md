@@ -5,17 +5,19 @@ Campaign Watch is an agent research platform covering US elections.
 The goal is to create an automated reporting system that provides information
 profiles on every candidate in every electoral race in the US.
 
+![Campaign Watch — race and candidate view](diagrams/ui-candidate-view.png)
+
 ## Deep research agent
 
 The system design of the deep research agent is:
 
-<!-- diagram -->
+<!-- diagram: diagrams/deep-research-agent.png -->
 
 ## Testing framework
 
 The design of our testing framework is:
 
-<!-- diagram -->
+![Closed loop testing and evals framework](diagrams/testing-framework.png)
 
 ## Engineering decisions
 
