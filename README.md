@@ -11,7 +11,7 @@ profiles on every candidate in every electoral race in the US.
 
 The system design of the deep research agent is:
 
-<!-- diagram: diagrams/deep-research-agent.png -->
+![Deep research agent architecture](diagrams/deep-research-agent.png)
 
 ## Testing framework
 
