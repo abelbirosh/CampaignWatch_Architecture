@@ -25,6 +25,6 @@ The design of our testing framework is:
 
 An active log of engineering decisions will be updated here:
 
-| Date | Decision | Context | Consequences | Status |
+| Date | Context | Decision | Result | Status |
 | --- | --- | --- | --- | --- |
 |  |  |  |  |  |
