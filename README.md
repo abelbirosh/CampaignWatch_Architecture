@@ -2,6 +2,8 @@
 
 Campaign Watch is an agent research platform covering US elections.
 
+Check it out now at https://campaignwatch.us/
+
 The goal is to create an automated reporting system that provides information
 profiles on every candidate in every electoral race in the US.
 
